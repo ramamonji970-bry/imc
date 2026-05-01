@@ -1,1 +1,2 @@
 # imc
+Ce projet est une application web interactive permettant de calculer l'Indice de Masse Corporelle (IMC) à partir de la taille et du poids de l'utilisateur. L'application fournit un résultat visuel avec un code couleur indiquant la catégorie de poids (maigreur, bonne santé, surpoids, etc.).
